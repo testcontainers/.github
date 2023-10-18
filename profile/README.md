@@ -14,11 +14,8 @@
 
 ## What is Testcontainers?
 
-Testcontainers is a testing library
-that provides easy and lightweight APIs for bootstrapping integration tests with real services 
-wrapped in Docker containers. 
-Using Testcontainers, you can write tests talking to the same type of services you use in production
-without mocks or in-memory services.
+Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, 
+or just about anything that can run in a Docker container.
 
 ## Implementations
 
@@ -28,6 +25,14 @@ Testcontainers is available for the following languages:
 * [Testcontainers for Go](https://golang.testcontainers.org/)
 * [Testcontainers for Java](https://java.testcontainers.org/)
 * [Testcontainers for Node.js](https://node.testcontainers.org/)
+
+### Community Projects
+
+* [Testcontainers for Clojure](https://cljdoc.org/d/clj-test-containers/clj-test-containers/)
+* [Testcontainers for Haskell](https://github.com/testcontainers/testcontainers-hs)
+* [Testcontainers for Python](https://testcontainers-python.readthedocs.io/en/latest/)
+* [Testcontainers for Ruby](https://github.com/testcontainers/testcontainers-ruby)
+* [Testcontainers for Rust](https://docs.rs/testcontainers/latest/testcontainers/)
 
 ## Modules Catalog
 
