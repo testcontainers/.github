@@ -33,6 +33,7 @@ Testcontainers is available for the following languages:
 * [Testcontainers for Python](https://testcontainers-python.readthedocs.io/en/latest/)
 * [Testcontainers for Ruby](https://github.com/testcontainers/testcontainers-ruby)
 * [Testcontainers for Rust](https://docs.rs/testcontainers/latest/testcontainers/)
+* [Testcontainers for Scala](https://github.com/testcontainers/testcontainers-scala/)
 
 ## Modules Catalog
 
