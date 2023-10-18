@@ -1,4 +1,6 @@
-![Testcontainers](https://raw.githubusercontent.com/testcontainers/.github/main/profile/logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/logo.png">
+</p>
 
 <html>
 <h3 align="center">
