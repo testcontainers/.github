@@ -42,7 +42,8 @@ Testcontainers is available for the following languages:
 Testcontainers offers modules with preconfigured implementations for popular services 
 such as databases, message brokers, and more. 
 Find the full list of modules in the [Testcontainers Module Catalog](https://testcontainers.com/modules/). 
-If you own a Testcontainers module implementation, please submit it to the catalog by creating a pull request to [this repository](https://github.com/testcontainers/community-module-registry).
+If you own a Testcontainers module implementation,
+please submit it to the catalog by creating a pull request to [this repository](https://github.com/testcontainers/community-module-registry).
 
 ## Getting Started
 
