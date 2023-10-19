@@ -52,7 +52,7 @@ We recommend you to start with the [Getting Started](https://testcontainers.com/
 
 ## How to start?
 
-* [Getting started with Testcontainers for .Net](https://testcontainers.com/guides/getting-started-with-testcontainers-for-dotnet/)
+* [Getting started with Testcontainers for .NET](https://testcontainers.com/guides/getting-started-with-testcontainers-for-dotnet/)
 * [Getting started with Testcontainers for Go](https://testcontainers.com/guides/getting-started-with-testcontainers-for-go/)
 * [Getting started with Testcontainers for Java](https://testcontainers.com/guides/getting-started-with-testcontainers-for-java/)
 * [Getting started with Testcontainers for Node.js](https://testcontainers.com/guides/getting-started-with-testcontainers-for-nodejs/)
