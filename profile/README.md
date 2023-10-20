@@ -61,7 +61,8 @@ We recommend you to start with the [Getting Started](https://testcontainers.com/
 ## Testcontainers Desktop
 
 [Testcontainers Desktop](https://testcontainers.com/desktop/) is a free companion app for the open source Testcontainers libraries that enriches the Testcontainers user-experience makes local development and testing with real dependencies even simpler.
-Read more about Testcontainers Desktop in the 
-[Simple local development with Testcontainers Desktop](https://testcontainers.com/guides/simple-local-development-with-testcontainers-desktop/) guide.
+Read more about Testcontainers Desktop in the [documentation](https://testcontainers.com/desktop/docs/).
+
+Try it following [Simple local development with Testcontainers Desktop](https://testcontainers.com/guides/simple-local-development-with-testcontainers-desktop/) guide.
 
 [![Introducing Testcontainers Desktop](https://img.youtube.com/vi/uRWKTNbOX-8/maxresdefault.jpg)](https://youtu.be/uRWKTNbOX-8)
