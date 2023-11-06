@@ -31,6 +31,7 @@ Testcontainers is available for the following languages:
 ### Community Projects
 
 * [Testcontainers for Clojure](https://cljdoc.org/d/clj-test-containers/clj-test-containers/)
+* [Testcontainers for Elixir](https://github.com/testcontainers/testcontainers-elixir)
 * [Testcontainers for Haskell](https://github.com/testcontainers/testcontainers-hs)
 * [Testcontainers for Python](https://testcontainers-python.readthedocs.io/en/latest/)
 * [Testcontainers for Ruby](https://github.com/testcontainers/testcontainers-ruby)
