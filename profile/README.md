@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/logo.png">
+  <img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/banner.png" alt="Testcontainers" width="846" height="220">
 </p>
 
 <html>
@@ -66,4 +66,6 @@ Read more about Testcontainers Desktop in the [documentation](https://testcontai
 
 Try it following the [Simple local development with Testcontainers Desktop](https://testcontainers.com/guides/simple-local-development-with-testcontainers-desktop/) guide.
 
-[![Introducing Testcontainers Desktop](https://img.youtube.com/vi/uRWKTNbOX-8/maxresdefault.jpg)](https://youtu.be/uRWKTNbOX-8)
+Or watch the quick video introduction:
+
+[<img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/desktop-thumbnail.png" alt="Introducing Testcontainers Desktop" width="846" height="181">](https://youtu.be/uRWKTNbOX-8)
