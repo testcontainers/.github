@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/banner.png" alt="Testcontainers" width="846" height="220">
+  <img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/banner.png" alt="Testcontainers">
 </p>
 
 <html>
@@ -68,4 +68,4 @@ Try it following the [Simple local development with Testcontainers Desktop](http
 
 Or watch the quick video introduction:
 
-[<img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/desktop-thumbnail.png" alt="Introducing Testcontainers Desktop" width="846" height="181">](https://youtu.be/uRWKTNbOX-8)
+[<img src="https://raw.githubusercontent.com/testcontainers/.github/main/profile/desktop-thumbnail.png" alt="Introducing Testcontainers Desktop">](https://youtu.be/uRWKTNbOX-8)
