@@ -21,18 +21,19 @@ or just about anything that can run in a Docker container.
 
 ## Implementations
 
-Testcontainers is available for the following languages:
+### Docker-sponsored Projects
 
-* [Testcontainers for .NET](https://dotnet.testcontainers.org/)
 * [Testcontainers for Go](https://golang.testcontainers.org/)
 * [Testcontainers for Java](https://java.testcontainers.org/)
-* [Testcontainers for Node.js](https://node.testcontainers.org/)
 
 ### Community Projects
 
+* [Testcontainers for .NET](https://dotnet.testcontainers.org/)
 * [Testcontainers for Clojure](https://cljdoc.org/d/clj-test-containers/clj-test-containers/)
 * [Testcontainers for Elixir](https://github.com/testcontainers/testcontainers-elixir)
 * [Testcontainers for Haskell](https://github.com/testcontainers/testcontainers-hs)
+* [Testcontainers for Node.js](https://node.testcontainers.org/)
+* [Testcontainers for PHP](https://github.com/testcontainers/testcontainers-php)
 * [Testcontainers for Python](https://testcontainers-python.readthedocs.io/en/latest/)
 * [Testcontainers for Ruby](https://github.com/testcontainers/testcontainers-ruby)
 * [Testcontainers for Rust](https://docs.rs/testcontainers/latest/testcontainers/)
