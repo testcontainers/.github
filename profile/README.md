@@ -16,8 +16,8 @@
 
 ## What is Testcontainers?
 
-Testcontainers is a set of open source libraries for providing throwaway, lightweight instances of databases, message brokers, web browsers, 
-or just about anything that can run in a Docker container.
+Testcontainers is a set of open source libraries that provides easy and lightweight APIs for bootstrapping local development and test dependencies with real services wrapped in Docker containers.
+Using Testcontainers, you can write tests that depend on the same services you use in production without mocks or in-memory services.
 
 ## Implementations
 
