@@ -11,7 +11,7 @@ We aim to build an inclusive and productive community of contributors and users.
 
 ## Governance Structure
 
-### 1. **Project Steering Committee**
+### 1. Project Steering Committee
 
 > _Also referred to as the “Testcontainers Steering Committee” (TSC)_
 
