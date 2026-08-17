@@ -21,18 +21,15 @@ Using Testcontainers, you can write tests that depend on the same services you u
 
 ## Implementations
 
-### Docker-sponsored Projects
-
-* [Testcontainers for Go](https://golang.testcontainers.org/)
-* [Testcontainers for Java](https://java.testcontainers.org/)
-
-### Community Projects
+### Projects
 
 * [Testcontainers for .NET](https://dotnet.testcontainers.org/)
 * [Testcontainers for C/C++ (and other native languages)](https://github.com/testcontainers/testcontainers-native)
 * [Testcontainers for Clojure](https://cljdoc.org/d/clj-test-containers/clj-test-containers/)
 * [Testcontainers for Elixir](https://github.com/testcontainers/testcontainers-elixir)
+* [Testcontainers for Go](https://golang.testcontainers.org/)
 * [Testcontainers for Haskell](https://github.com/testcontainers/testcontainers-hs)
+* [Testcontainers for Java](https://java.testcontainers.org/)
 * [Testcontainers for Node.js](https://node.testcontainers.org/)
 * [Testcontainers for PHP](https://github.com/testcontainers/testcontainers-php)
 * [Testcontainers for Python](https://testcontainers-python.readthedocs.io/en/latest/)
